@@ -1,0 +1,9 @@
+header, main{
+    display: block;
+    text-align: center;
+}
+
+.button{
+    width: 80px;
+    margin-top: 20px;
+}
